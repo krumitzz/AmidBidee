@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 #### I'm a young python software engineer and API developer
 
-- 🌱 I’m currently learning AI/ML and also
+- 🌱 I’m currently learning AI/ML
 
-- I'm a student at ALX & Holberton computer science school
+- 🎒 I'm a student at ALX & Holberton computer science school
 
 - 🔭 I’m currently working on *aladabraai* (https://github.com/aldabra-ai/aldabra-ai)... A SaaS application focused on reducing repetitive tasks and increasing healthcare efficiency in hospitals and as well as tackle mental health issues.
 
