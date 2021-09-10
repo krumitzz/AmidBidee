@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning AI/ML
 
-- 🔭 I’m currently working on *aladabraai* (https://github.com/aldabra-ai/aldabra-ai)... A SaaS application focused reduce reduce repetitive tasks and increase healthcare efficiency in hospitals and as well as tackle mental health issues.
+- 🔭 I’m currently working on *aladabraai* (https://github.com/aldabra-ai/aldabra-ai)... A SaaS application focused on reducing repetitive tasks and increasing healthcare efficiency in hospitals and as well as tackle mental health issues.
 
 - 👯 I’m looking to collaborate on backend and API projects with django and DRF
 
