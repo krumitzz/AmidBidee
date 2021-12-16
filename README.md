@@ -3,7 +3,7 @@
 
 - I’m currently learning to be a be a bad$$$ software engineer
 - I'm a student at ALX & Holberton computer science school
-- I’m currently working on *Aldabra AI* dev/beta version(https://aldabra.xyz)... __A SaaS application for Managing Hospital Tasks as well Appointments.__
+- I’m currently working on *Aldabra AI* dev/beta APIs (https://aldabra.xyz)... __A SaaS application for Managing Hospital Tasks as well Appointments.__
 - collaborate on backend and API projects with django and DRF?
 - I’m looking for help with *Asynchronous programming*
 - How to reach me: email: amidbidee@gmail.com
